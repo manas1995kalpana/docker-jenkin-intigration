@@ -9,7 +9,7 @@ public class Controller {
 	
 	@GetMapping("message")
 	public String getMessage() {
-		return "My First Docker Application.";
+		return "My First Docker Application.: kana kala se..";
 	}
 	
 }
