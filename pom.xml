@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.myapp.zenkindocker</groupId>
-	<artifactId>zenkin_docker</artifactId>
+	<artifactId>docker-jenkin-intigration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>zenkin_docker</name>
 	<description>This is micro service for SchoolInfo.</description>
@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker-jenkin-intigration-sample</finalName>
+		<finalName>docker-jenkin-intigration</finalName>
 	</build>
 
 </project>
