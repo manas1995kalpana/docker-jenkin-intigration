@@ -1,4 +1,4 @@
 FROM openjdk:11
 EXPOSE 8080
-ADD target/docker-jenkin-intigration.jar docker-jenkin-intigration.jar
-ENTRYPOINT ["java","-jar","/docker-jenkin-intigration.jar"] 
+ADD target/jenkins-docker-inti.jar jenkins-docker-inti.jar
+ENTRYPOINT ["java","-jar","/jenkins-docker-inti.jar"] 
