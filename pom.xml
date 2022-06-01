@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.myapp.zenkindocker</groupId>
-	<artifactId>docker-jenkin-intigration</artifactId>
+	<artifactId>jenkins-docker-inti</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>zenkin_docker</name>
 	<description>This is micro service for SchoolInfo.</description>
